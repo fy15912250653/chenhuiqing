@@ -19,5 +19,6 @@ public class ChenhuiqingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ChenhuiqingApplication.class, args);
+		//ni
 	}
 }
