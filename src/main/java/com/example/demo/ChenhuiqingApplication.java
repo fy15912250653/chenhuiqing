@@ -8,6 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @MapperScan(basePackages = "com.example.demo.mapper")
 //test
 //nihao
+//222222
 public class ChenhuiqingApplication {
 
 	public static void main(String[] args) {
