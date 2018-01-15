@@ -17,7 +17,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //ccccc
 //bbbbd
 public class ChenhuiqingApplication {
-
+	//event
 	public static void main(String[] args) {
 		SpringApplication.run(ChenhuiqingApplication.class, args);
 		//ni
