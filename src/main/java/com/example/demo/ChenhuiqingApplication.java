@@ -13,7 +13,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //shangcc
 //asd
 //shangchuan
-//shuangchaun success
+//shuangchaun successx
 public class ChenhuiqingApplication {
 
 	public static void main(String[] args) {
